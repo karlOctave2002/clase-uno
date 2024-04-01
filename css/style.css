@@ -1,0 +1,25 @@
+
+form{
+  width: 80%;
+  margin: 0 auto;
+  background-color: aquamarine;
+  padding: 20%;
+  border-radius: 20px;
+  box-shadow: 12px;
+
+}
+
+.col{
+    border-color: black;
+    border: 1.5px solid #333;
+    padding: 10px;
+    width: 200px;
+    border-radius: 10px;
+
+    display: grid;
+    grid-template-columns: 1fr 1fr auto;
+    margin-left: 10px ;
+    align-items: start;
+    
+
+}
